@@ -29,9 +29,9 @@
 우리는 효율적으로 구성된 팀이 주는 힘과 가능성을 믿습니다.  
 혼자서 모든 것을 처리해야 하는 조직은 단기간에 목표를 달성할 수는 있더라도, 오랫동안 지속해야 하는 목표를 달성할 수 없다고 믿습니다. 그래서 우리는 함께 성장하며 지속가능한 서비스를 만들기위해 다음과 같이 팀을 결성하고 있습니다.  
     
-- 증권시세 & 금융데이터 개발팀
-- 웹 서비스 개발팀
-- 모바일 개발팀
+- [증권시세 & 금융데이터 개발팀](https://github.com/dunamu/jobs/blob/master/devteam/infrateam.md)
+- [웹 서비스 개발팀](https://github.com/dunamu/jobs/blob/master/devteam/webteam.md)
+- [모바일 개발팀](https://github.com/dunamu/jobs/blob/master/devteam/mobileteam.md)
     
     
 # Join Us
